@@ -2,10 +2,10 @@
 layout: page
 title: projects
 permalink: /projects/
-description: A growing collection of your cool projects.
+description: 진행한 프로젝트들을 소개합니다.
 nav: true
-nav_order: 3
-display_categories: [work, fun]
+nav_order: 2
+display_categories: [project] 
 horizontal: false
 ---
 
