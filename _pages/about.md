@@ -27,4 +27,10 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-ㅎㅇ
+안녕하세요, 풀스택 개발자를 꿈꾸는 2학년 학부생 강신혁 입니다.
+
+현재 Python과 Spring Boot를 주력으로 공부하고 있으며 
+
+교내 캡스톤 디자인으로 **'실시간 주차 공간 확인 서비스'**를 개발하였습니다.
+
+
