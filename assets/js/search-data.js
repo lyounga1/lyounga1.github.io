@@ -391,16 +391,14 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/the_godfather/";
-            },},{id: "news-a-simple-inline-announcement",
-          title: 'A simple inline announcement.',
-          description: "",
-          section: "News",},{id: "news-a-long-announcement-with-details",
-          title: 'A long announcement with details',
-          description: "",
-          section: "News",handler: () => {
-              window.location.href = "/news/announcement_2/";
             },},{id: "news-a-simple-inline-announcement-with-markdown-emoji-sparkles-smile",
           title: 'A simple inline announcement with Markdown emoji! :sparkles: :smile:',
+          description: "",
+          section: "News",},{id: "news-2학년-복학-및-전공-학습-시작",
+          title: '2학년 복학 및 전공 학습 시작',
+          description: "",
+          section: "News",},{id: "news-캡스톤-디자인-프로젝트-하우파킹-주차-공간-확인-서비스-시작",
+          title: '캡스톤 디자인 프로젝트 하우파킹(주차 공간 확인 서비스) 시작 🚗',
           description: "",
           section: "News",},{id: "projects-project-1",
           title: 'project 1',
