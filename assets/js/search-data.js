@@ -400,7 +400,12 @@ ninja.data = [{
           section: "News",},{id: "news-포트폴리오-웹사이트-1차-배포-완료-github-pages",
           title: '포트폴리오 웹사이트 1차 배포 완료 (GitHub Pages) 🚀',
           description: "",
-          section: "News",},{
+          section: "News",},{id: "projects-실시간-주차-공간-확인-시스템-howparking",
+          title: '실시간 주차 공간 확인 시스템(HOWPARKING)',
+          description: "AI분석 기반 주차자리 찾기 서비스",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/2025-parking/";
+            },},{
         id: 'social-cv',
         title: 'CV',
         section: 'Socials',
