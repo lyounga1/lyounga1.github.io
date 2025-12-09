@@ -2,18 +2,18 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
+subtitle: <a href='#'> 풀스택 개발자를 공부하고있는 대학생입니다.</a>. 
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: ID_photo.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+    <p>재능대학교</p>
+    <p>컴퓨터 소프트웨어학과 2학년</p>
+    
 
-selected_papers: true # includes a list of papers marked as "selected={true}"
+selected_papers: false
 social: true # includes social icons at the bottom of the page
 
 announcements:
