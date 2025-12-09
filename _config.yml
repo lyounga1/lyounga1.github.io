@@ -6,9 +6,9 @@ title: 포트폴리오
 first_name: 신혁
 last_name: 강
 email: lyounga01@gmail.com
-contact_note: >
+contact_note: 
 description: > 
-풀스택 개발자를 공부하고있는 강신혁 포트폴리오 입니다.
+  풀스택 개발자를 공부하고있는 강신혁 포트폴리오 입니다.
 footer_text: >
   Powered by <a href="https://jekyllrb.com/" target="_blank">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme.
   Hosted by <a href="https://pages.github.com/" target="_blank">GitHub Pages</a>.
