@@ -2,7 +2,7 @@
 layout: page
 title: 실시간 주차 공간 확인 시스템(HOWPARKING)
 description: AI분석 기반 주차자리 찾기 서비스
-img: assets/img/parking_thumb.jpg
+img: assets/img/howparking_logo.png
 importance: 1
 category: project
 ---
